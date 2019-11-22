@@ -1,5 +1,7 @@
 # A simple lab using Rust to manipulate strings
 
+[![Actions Status](https://github.com/umm-csci-3403-fall-2019/lab-9-disemvowel-in-rust-team-team/workflows/Rust/badge.svg)](https://github.com/umm-csci-3403-fall-2019/lab-9-disemvowel-in-rust-team-team/actions)
+
 This is a very simple lab where we'll use Rust to
 implement the `disemvowel` function that we covered
 [in a previous C lab](https://github.com/UMM-CSci-Systems/C-strings-and-memory-management#disemvowel).
