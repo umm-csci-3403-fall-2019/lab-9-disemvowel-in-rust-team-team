@@ -6,6 +6,10 @@ fn main() {
     println!("s was '{}', and without vowels is '{}'.", s, s_disemvowel);
 }
 
+fn disemvowel(string: &str) -> String {
+    return string.replace(&['a','e','i','o','u','A','E','I','O','U'][..], "");
+}
+
 // Everything from here down is Rust test code. You shouldn't need to 
 // change any of this. 
 //
